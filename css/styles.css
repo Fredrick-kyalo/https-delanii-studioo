@@ -1,0 +1,32 @@
+.box{
+    background-image: url("h_img.jpg");
+}
+.box{
+    padding-left:37%;
+    padding-top:20%;
+    font-size:0.5cm;
+}
+.box>h1{
+    color: whitesmoke;
+}
+.box>p{
+    color:white;
+}
+.mouse{
+    padding-left:47%;
+    padding-top: 6%;
+}
+.xhaka{
+    text-align: center;
+    background-image: url("s_image.jpg");
+    padding-top: 10%; ;
+}
+
+.xhaka>h2{
+    text-align:center;
+}
+.xhaka>p{
+    padding-bottom: 20%;
+}
+
+
