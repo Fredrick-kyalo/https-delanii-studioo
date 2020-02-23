@@ -24,9 +24,11 @@
 
 .xhaka>h2{
     text-align:center;
+    color: white;
 }
 .xhaka>p{
     padding-bottom: 20%;
+    color: whitesmoke;
 }
 .dev{
     padding-left: 490px;
