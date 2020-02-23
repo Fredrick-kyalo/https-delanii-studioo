@@ -28,5 +28,16 @@
 .xhaka>p{
     padding-bottom: 20%;
 }
-
+.dev{
+    padding-left: 490px;
+    padding-bottom: 0px;
+}
+.product{
+    float: right;
+    padding-bottom:550%px;
+    bottom:89px;
+}
+h3{
+    text-align: center;
+}
 
