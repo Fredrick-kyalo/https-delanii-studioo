@@ -32,6 +32,8 @@
 }
 .dev{
     padding-left: 490px;
+    padding-top:0mm;
+    position: relative;
 }
 .product{
     float: right;
@@ -49,5 +51,19 @@ h4{
 }
 .contact{
     background-image: url("c_image.jpg");
-    padding-top: 36%;
+    padding-top: 20%;
+}
+.contact>p{
+    padding-top: 3%;
+    text-align: center;
+
+}
+#imagetwo{
+    float:right;
+}
+#imageone{
+    padding-left: 40%;
+}
+h4{
+    color: whitesmoke;
 }
