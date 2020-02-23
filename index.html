@@ -63,7 +63,29 @@
 </div>
 <div class="contact">
 <h4>CONTACT US</h4>
-<p><input type="text" placeholder="NAME">      <input type="text" placeholder="EMAIL"></p>
+
+<div class="container">
+  <div class="row form">
+    <div class="col-md-12">
+    <form action="javascript:submitContactForm()">
+        <p>
+            <input type="text" placeholder="NAME" id="name"/>      
+            <input type="text" placeholder="EMAIL" id="email"/>
+        </p>
+       
+        <p>
+            <textarea name="message" placeholder="Message" id="message">
+    
+            </textarea>
+        </p>
+        
+        <input type="submit"/>
+    </form>
+    </div>
+    </div>
+</div>
+
+
 </div> 
 </div>
 <img src="twitter.png">
