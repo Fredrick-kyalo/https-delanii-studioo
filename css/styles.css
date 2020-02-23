@@ -40,4 +40,6 @@
 h3{
     text-align: center;
 }
-
+#images{
+    float: left;;
+}
