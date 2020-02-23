@@ -30,7 +30,6 @@
 }
 .dev{
     padding-left: 490px;
-    padding-bottom: 0px;
 }
 .product{
     float: right;
@@ -42,4 +41,11 @@ h3{
 }
 #images{
     float: left;;
+}
+h4{
+    text-align: center;
+}
+.contact{
+    background-image: url("c_image.jpg");
+    padding-top: 36%;
 }
