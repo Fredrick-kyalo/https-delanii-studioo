@@ -1,10 +1,13 @@
 $(document).ready(function() {
     $(".pac").click(function() {
-        $(".wilder").show();
+        $(".wilder").hide();
+        $(".wilder").slideDown()
         $(".uon").click(function(){
-        $(".deontay").show();
+        $(".deontay").hide();
+        $(".deontay").fadeIn()
         $(".product").click(function(){
-        $(".fury").show();
+        $(".fury").hide();
+        $(".fury").toggle()
         });
       });    
     });
