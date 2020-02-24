@@ -85,3 +85,24 @@ h4{
 .fury{
     display: none;
 }
+.socialmedia{
+    text-align: center;
+}
+.debian{
+    text-align: center;
+}
+.studio{
+    text-align: center;
+}
+.year{
+    text-align: center;
+}
+.pac{
+cursor: pointer;
+}
+.product{
+    cursor: pointer;
+}
+.uon{
+    cursor: pointer;
+}

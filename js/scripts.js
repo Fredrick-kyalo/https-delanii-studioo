@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    $("h2").click(function() {
+    $(".pac").click(function() {
         $(".wilder").show();
-        $("h4").click(function(){
+        $(".uon").click(function(){
         $(".deontay").show();
-        $("h5").click(function(){
+        $(".product").click(function(){
         $(".fury").show();
         });
       });    
