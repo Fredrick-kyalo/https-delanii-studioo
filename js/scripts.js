@@ -2,14 +2,18 @@ $(document).ready(function() {
     $(".pac").click(function() {
         $(".wilder").hide();
         $(".wilder").slideDown()
+        $(".wilder").toggle();
+    });
         $(".uon").click(function(){
         $(".deontay").hide();
         $(".deontay").fadeIn()
+        $(".deontay").toggle();
+    });
         $(".product").click(function(){
         $(".fury").hide();
-        $(".fury").toggle()
-        });
-      });    
+        $(".fury").fadeIn() 
+        $(".fury").toggle();    
+          
     });
 });
 function submitContactForm(){
