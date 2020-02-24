@@ -51,7 +51,16 @@ h4{
 }
 .contact{
     background-image: url("c_image.jpg");
-    padding-top: 20%;
+    padding-top: 5%;
+    height: 500px;
+    margin-top: 2%;
+}
+.contact .form {
+    margin-left: 342px;
+}
+.form #message{
+    width: 55%;
+    height: 255px;
 }
 .contact>p{
     padding-top: 3%;
@@ -66,4 +75,13 @@ h4{
 }
 h4{
     color: whitesmoke;
+}
+.wilder{
+    display: none;
+}
+.deontay{
+    display: none;
+}
+.fury{
+    display: none;
 }
