@@ -40,6 +40,9 @@
     padding-bottom:550%px;
     bottom:89px;
 }
+.unyama{
+    text-align: center;
+}
 h3{
     text-align: center;
 }
@@ -84,4 +87,28 @@ h4{
 }
 .fury{
     display: none;
+}
+.socialmedia{
+    text-align: center;
+}
+.debian{
+    text-align: center;
+}
+.studio{
+    text-align: center;
+}
+.year{
+    text-align: center;
+}
+.pac{
+cursor: pointer;
+}
+.product{
+    cursor: pointer;
+}
+.uon{
+    cursor: pointer;
+}
+.dude{
+    color: blue;
 }
