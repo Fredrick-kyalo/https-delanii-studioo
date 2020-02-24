@@ -110,5 +110,8 @@ cursor: pointer;
     cursor: pointer;
 }
 .dude{
-    color: blue;
+    background-color: transparent;
+}
+.loin{
+    background-color: transparent;
 }
