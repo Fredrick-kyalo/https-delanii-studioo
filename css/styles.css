@@ -79,6 +79,7 @@ h4{
 h4{
     color: whitesmoke;
 }
+/* 
 .wilder{
     display: none;
 }
@@ -87,7 +88,7 @@ h4{
 }
 .fury{
     display: none;
-}
+} */
 .socialmedia{
     text-align: center;
 }
@@ -114,4 +115,30 @@ cursor: pointer;
 }
 .loin{
     background-color: transparent;
+}
+#image1{
+    display: none;
+}
+#show{
+    display: show;
+}
+#hide{
+    display: none;
+    
+}
+#hide h4{
+    text-align: center;
+}
+#show2{
+    display: show;
+}
+#hide2{
+    display: none;
+    
+}
+#show3{
+    display: show;
+}
+#hide3{
+       display: none;
 }
