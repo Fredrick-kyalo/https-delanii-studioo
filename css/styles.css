@@ -1,147 +1,251 @@
-.box{
+.box {
     background-image: url("h_img.jpg");
 }
-.box{
-    padding-left:37%;
-    padding-top:20%;
-    font-size:0.5cm;
-}
-.box>h1{
-    color: whitesmoke;
-}
-.box>p{
-    color:white;
-}
-.mouse{
-    padding-left:47%;
-    padding-top: 6%;
-}
-.xhaka{
-    text-align: center;
-    background-image: url("s_image.jpg");
-    padding-top: 10%; ;
+
+.box {
+    padding-left: 37%;
+    padding-top: 20%;
+    font-size: 0.5cm;
 }
 
-.xhaka>h2{
-    text-align:center;
+.box>h1 {
+    color: whitesmoke;
+}
+
+.box>p {
     color: white;
 }
-.xhaka>p{
+
+.mouse {
+    padding-left: 47%;
+    padding-top: 6%;
+}
+
+.xhaka {
+    text-align: center;
+    background-image: url("s_image.jpg");
+    padding-top: 10%;
+    ;
+}
+
+.xhaka>h2 {
+    text-align: center;
+    color: white;
+}
+
+.xhaka>p {
     padding-bottom: 20%;
     color: whitesmoke;
 }
-.dev{
+
+.dev {
     padding-left: 490px;
-    padding-top:0mm;
+    padding-top: 0mm;
     position: relative;
 }
-.product{
+
+.product {
     float: right;
-    padding-bottom:550%px;
-    bottom:89px;
+    padding-bottom: 550%px;
+    bottom: 89px;
 }
-.unyama{
+
+.unyama {
     text-align: center;
 }
-h3{
+
+h3 {
     text-align: center;
 }
-#images{
-    float: left;;
+
+#images {
+    float: left;
+    ;
 }
-h4{
+
+h4 {
     text-align: center;
 }
-.contact{
+
+.contact {
     background-image: url("c_image.jpg");
     padding-top: 5%;
     height: 500px;
     margin-top: 2%;
 }
+
 .contact .form {
     margin-left: 342px;
 }
-.form #message{
+
+.form #message {
     width: 55%;
     height: 255px;
 }
-.contact>p{
+
+.contact>p {
     padding-top: 3%;
     text-align: center;
+}
 
+#imagetwo {
+    float: right;
 }
-#imagetwo{
-    float:right;
-}
-#imageone{
+
+#imageone {
     padding-left: 40%;
 }
-h4{
+
+h4 {
     color: whitesmoke;
 }
-/* 
-.wilder{
-    display: none;
-}
-.deontay{
-    display: none;
-}
-.fury{
-    display: none;
-} */
-.socialmedia{
+
+.socialmedia {
     text-align: center;
 }
-.debian{
+
+.debian {
     text-align: center;
 }
-.studio{
+
+.studio {
     text-align: center;
 }
-.year{
+
+.year {
     text-align: center;
 }
-.pac{
-cursor: pointer;
-}
-.product{
+
+.pac {
     cursor: pointer;
 }
-.uon{
+
+.product {
     cursor: pointer;
 }
-.dude{
+
+.uon {
+    cursor: pointer;
+}
+
+.dude {
     background-color: transparent;
 }
-.loin{
+
+.loin {
     background-color: transparent;
 }
-#image1{
+
+#image1 {
     display: none;
 }
-#show{
+
+#show {
     display: show;
 }
-#hide{
+
+#hide {
     display: none;
-    
 }
-#hide h4{
+
+#hide h4 {
     text-align: center;
 }
-#show2{
+
+#show2 {
     display: show;
 }
-#hide2{
+
+#hide2 {
     display: none;
-    
 }
-#show3{
+
+#show3 {
     display: show;
 }
-#hide3{
-       display: none;
+
+#hide3 {
+    display: none;
 }
-.dyu{
+
+.dyu {
     background-color: transparent;
+}
+#work4-overlay {
+    text-align: center;
+    background-image: url(work4.jpg);
+    background-color: #7c9a9e;
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;
+}
+
+#work3-overlay {
+    text-align: center;
+    background-image: url(work3.jpg);
+    background-color: #6b5947;
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work2-overlay {
+    text-align: center;
+    background-image: url(work2.jpg);
+    background-color: #f0a861;
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work1-overlay {
+    text-align: center;
+    background-color: #cdee99;
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;
+    background-image: url(work1.jpg);  
+}
+
+#work5-overlay {
+    text-align: center;
+    background-color: #2e4e39;
+    display: none;
+    color: brown;
+    height: 241px;
+    background-image: url(work5.jpg);
+    padding-top: 115px;  
+}
+
+#work6-overlay {
+    text-align: center;
+    background-color: #e1afeb;
+    display: none;
+    color: brown;
+    height: 241px;
+    background-image: url(work6.jpg);
+    padding-top: 115px;  
+}
+
+#work7-overlay {
+    text-align: center;
+    background-image: url(work7.jpg);
+    background-color: #bb4a5d13;
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work8-overlay {
+    text-align: center;
+    background-image: url("work8.jpg");
+    display: none;
+    color: brown;
+    height: 241px;
+    padding-top: 115px;  
 }
